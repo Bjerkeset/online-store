@@ -23,7 +23,7 @@ State Management: You'll see a practical use of Zustand for managing app state a
 UI Components: The project includes examples of reusable Shadcn components, like product cards, buttons, and a drawer.
 It's a practical example of modern web development practices, designed to be easy to understand and work with.
 
-Installation
+**Installation**
 To get started, follow these steps:
 
 Clone the repository:
