@@ -1,5 +1,5 @@
 
-# Online Store Shopping State Management
+# Online Store State Management
 
 This project is an e-commerce website built with Next.js and Zustand. It's designed to be simple to use and serve as a reference for how to manage global state in an e-commerce store. Here's what it does and how it's put together:
 
