@@ -1,7 +1,7 @@
 
-#Online Store Shopping State Management
+# Online Store Shopping State Management
 
-##Description
+## Description
 This project is an e-commerce website built with Next.js and Zustand. It's designed to be simple to use and serve as a reference for how to manage global state in an e-commerce store. Here's what it does and how it's put together:
 
 **Frontend: Next.js**
@@ -51,8 +51,8 @@ Navigate to http://localhost:3000 in your browser to view the application.
   
 
 **License**
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+This project is licensed under the MIT License.
 
 **Contact**
-If you have any questions about Project Name, please feel free to contact me on github.
+If you have any questions about the project, please feel free to contact me on github.
 
